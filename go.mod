@@ -1,4 +1,4 @@
-module github.com/eabz/ogen-relayer
+module github.com/kindynosmx/ogen-relayer
 
 go 1.20
 

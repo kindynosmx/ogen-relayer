@@ -16,7 +16,7 @@ import (
 	ma "github.com/multiformats/go-multiaddr"
 	"github.com/eabz/ogen/pkg/logger"
 	"github.com/eabz/ogen/pkg/params"
-	"github.com/eabz/ogen-relayer/relayer"
+	"github.com/kindynosmx/ogen-relayer/relayer"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 	"io/ioutil"

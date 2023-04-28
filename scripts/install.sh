@@ -30,7 +30,7 @@ echo "Downloading Olympus Relayer"
 
 rm -rf olympus-relayer
 
-git clone https://github.com/eabz/ogen-relayer &> /dev/null
+git clone https://github.com/kindynosmx/ogen-relayer &> /dev/null
 
 cd olympus-relayer && bash ./scripts/build.sh
 

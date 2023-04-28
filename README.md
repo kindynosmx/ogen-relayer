@@ -1,5 +1,7 @@
 # Ogen Relayer
 
+## **DEPRECATED: use only as a reference.**
+
 > Ogen DHT peer and message relayer
 
 Ogen Relayer uses libp2p DHT to relay addresses and version related nodes to the Olympus Blockchain.
